@@ -2,6 +2,14 @@
 
 クラッシュバンディグー オン ザ ラン！（キング）の背景
 
+![image](images/icon.jpg)
+
+邦題：クラッシュ・バンディクー ブッとび！マルチワールド [Android版](https://play.google.com/store/apps/details?id=com.king.crash) [iOS版](https://apps.apple.com/jp/app/crash-bandicoot-on-the-run/id1510334752)
+
+Kingはキャンディークラッシュサーガ・バブルウィッチなど主にパズルゲーム系で有名な会社だが、マップ画面の作成などで今までもHoudiniを使ってはいた。今回初の本格的３Dゲームをリリースし、Houdiniも本格的に使いだしたように見える。
+https://apps.apple.com/jp/developer/king/id526656015#see-all/i-phonei-pad-apps
+
+
 ## 概要
 
 https://www.youtube.com/watch?v=wx3lDVDIrqQ
@@ -29,50 +37,54 @@ Miguelは効果的なコンテンツパイプラインの製作に注力しま�
 
 ![image](images/v00002.jpg)
 
-### 見出し
+広大な情景の中に実際にプレイヤーが走り抜ける場所を設ける。
+
+### 古典的な技法を試した
 ![image](images/v00003.jpg)
 
-### 見出し
+### 様々な地形
 ![image](images/v00004.jpg)
 
-### 見出し
+### プロトタイプで試したこと
 ![image](images/v00005.jpg)
 
-### 見出し
+### 六角形も試した
 ![image](images/v00006.jpg)
 
-### 見出し
+### Unity上でHDAを動かしてみた
 ![image](images/v00008.jpg)
 
-### 六角形タイルシステムの導入
+### 六角形タイルシステムを導入
 [00:06:07](http://www.youtube.com/watch?v=wx3lDVDIrqQ?t=367s) 
 
 ![image](images/v00009.jpg)
 
-### 見出し
+### プロシージャル化しすぎて失敗
 ![image](images/v00010.jpg)
 
-### 六角形タイルをプロシージャルに
+### デザイナのために六角形タイルを用意する
 [00:12:15](http://www.youtube.com/watch?v=wx3lDVDIrqQ?t=735s) 
 
 ![image](images/v00011.jpg)
 
-### 見出し
+### デザイナの作業を取り込む
 ![image](images/v00012.jpg)
 
-### 見出し
+デザイナ手作業のモデルを取り込むようにして、これはとてもうまくいった。
+
+### 見出し未定
 ![image](images/v00013.jpg)
 
-### 見出し
+### 見出し未定
 ![image](images/v00014.jpg)
 
-### 見出し
+### 見出し未定
 ![image](images/v00015.jpg)
 
-### 見出し
+### 見出し未定
 ![image](images/v00016.jpg)
 
-### 見出し
+### 見出し未定
 ![image](images/v00017.jpg)
 
 ### 最終結果 タイル例
@@ -82,3 +94,10 @@ Miguelは効果的なコンテンツパイプラインの製作に注力しま�
 
 ### 最終結果 シーン例
 ![image](images/v00019.jpg)
+
+## 考察
+
+視聴してのまとめ。
+
+デザイナ作業とプロシージャルパイプラインの融合について
+
