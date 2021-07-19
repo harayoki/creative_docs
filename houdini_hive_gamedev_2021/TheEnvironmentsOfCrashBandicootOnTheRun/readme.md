@@ -6,8 +6,7 @@
 
 邦題：クラッシュ・バンディクー ブッとび！マルチワールド [Android版](https://play.google.com/store/apps/details?id=com.king.crash) [iOS版](https://apps.apple.com/jp/app/crash-bandicoot-on-the-run/id1510334752)
 
-Kingはキャンディークラッシュサーガ・バブルウィッチなど主にパズルゲーム系で有名な会社だが、マップ画面の作成などで今までもHoudiniを使ってはいた。今回初の本格的３Dゲームをリリースし、Houdiniも本格的に使いだしたように見える。
-https://apps.apple.com/jp/developer/king/id526656015#see-all/i-phonei-pad-apps
+Kingはキャンディークラッシュサーガ・バブルウィッチなど主にパズルゲーム系で有名な会社だが、マップ画面の作成などで今までもHoudiniを使ってはいた。今回初の本格的３Dゲームをリリースし、Houdiniも本格的に使いだしたように見える。 [Kingのゲーム一覧](https://apps.apple.com/jp/developer/king/id526656015#see-all/i-phonei-pad-apps)
 
 
 ## 概要
